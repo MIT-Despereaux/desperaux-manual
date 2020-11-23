@@ -1,5 +1,5 @@
-# desperaux-manual
+# Despereaux-manual
 
 Wiki containing information about using and debugging the Desperaux dilution refrigerator
 
-https://github.com/joejohnston203/desperaux-manual/wiki
+https://github.com/MIT-Despereaux/Desperaux-manual/wiki
