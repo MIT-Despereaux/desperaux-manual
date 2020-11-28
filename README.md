@@ -4,7 +4,7 @@ Wiki containing information about using and debugging the Desperaux dilution ref
 
 https://github.com/MIT-Despereaux/Desperaux-manual/wiki
 
-Abrreviation list:
+Abreviation list:
 
 - MC -- Mixing Chamber
 - GHS -- Gas Handling System
