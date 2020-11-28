@@ -8,3 +8,4 @@ Abrreviation list:
 
 - MC -- Mixing Chamber
 - GHS -- Gas Handling System
+- OVC -- Outer Vacuum Chamber
